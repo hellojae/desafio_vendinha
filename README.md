@@ -6,3 +6,5 @@ O motivo de eu ter utilizado esse framework e essas bibliotecas foram porque era
 
 
 A aplicação pode ser executada pelo navegador, mas foi desenvolvida em Visual Studio Code, ainda não tendo sua aplicação para instalação, no sistema o atendente deve colocar os dados do cliente e o valor que ele deve na vendinha, o valor será calculado e ficará como pendente, quando o mesmo pagar seu dívida, o atendente pode colocar como pago e ou excluir o cliente do sistema.
+
+A aplicação está parcialmente concluída, visto que apenas sua interface está concluída, mas as funções de calculo e de quitar dívidas ainda não foram concluídas. 
